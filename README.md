@@ -3,7 +3,7 @@
 
 My name is Vinay Viswanathan. I am currently a student studying Computer Science hoping to go into Software engineering, though I am definitely exploring my options.
 
-On my profile you will find my repositories of projects that I have finished an am working on. Feel free to create pull requests as needed 
+On my profile you will find my repositories of projects that I have finished and am currently working on. Feel free to create pull requests as needed 
 (stars would also be much appreciated :) )
 
 # Fun Facts
