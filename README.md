@@ -6,4 +6,4 @@ I'm a senior studying Computer Science at Washington University in St. Louis. I 
 
 You can visit my [personal website](https://vinayvis821.github.io/personal-site/) (work in progress) to learn more and contact me
 
-`print( "Bye!" )`
+`print( "Have a great day!" )`
